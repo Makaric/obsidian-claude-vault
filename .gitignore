@@ -1,0 +1,32 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/.obsidian-git-isomorphic-git/
+.trash/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (если будут скрипты)
+node_modules/
+.npm/
+*.log
+
+# Python (если будут скрипты)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+.env.local
+*.key
+*.pem
